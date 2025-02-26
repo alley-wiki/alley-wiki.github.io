@@ -2,6 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
 import dynamic from 'next/dynamic';
+import { Metadata } from 'next';
+import { PageProps, UserPageParams } from '@/types/page';
 
 // Импортируем клиентский компонент
 const UserPageContent = dynamic(() => import('./UserPageContent'), { ssr: true });
@@ -167,7 +169,15 @@ function convertWikiToHtml(wikiText: string): { content: string; metadata: Recor
   return { content: html, metadata };
 }
 
-export default function UserPage({ params }: { params: { slug: string } }) {
+export async function generateMetadata({ params }: PageProps<UserPageParams>): Promise<Metadata> {
+  const decodedSlug = decodeURIComponent(params.slug);
+  return {
+    title: `${decodedSlug} - Вишневые Аллеи Wiki`,
+    description: `Профиль пользователя ${decodedSlug} на Вишневые Аллеи Wiki`
+  };
+}
+
+export default async function UserPage({ params }: PageProps<UserPageParams>) {
   const decodedSlug = decodeURIComponent(params.slug);
   const filePath = path.join(process.cwd(), 'public', 'wiki-content', `${decodedSlug}.md`);
   

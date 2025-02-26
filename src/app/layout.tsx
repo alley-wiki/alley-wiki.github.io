@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   keywords: ['Вишневые Аллеи', 'Cherru', 'MrLololoshka', 'Discord', 'Wiki'],
   icons: {
     icon: '/logo/logo.png',
+    rel: 'icon',
+    type: 'image/png',
+    sizes: 'any',
   },
 }
 
@@ -26,8 +29,9 @@ export default function RootLayout({
       <head suppressHydrationWarning>
         <title>Вишневые Аллеи</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" type="image/png" href="/logo/logo.png" />
+        <link rel="icon" href="/logo/logo.png" type="image/png" sizes="any" />
         <link rel="apple-touch-icon" href="/logo/logo.png" />
+        <link rel="shortcut icon" href="/logo/logo.png" type="image/png" />
       </head>
       <body className={inter.className} suppressHydrationWarning>
         <ThemeProvider

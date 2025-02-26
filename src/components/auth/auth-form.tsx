@@ -4,21 +4,30 @@ import { useState } from 'react'
 import { Button } from '@/components/ui/button'
 import { auth } from '@/lib/auth'
 
-export function AuthForm() {
+interface AuthFormProps {
+  onSubmit: (nickname: string) => Promise<void>
+  type: 'login'
+}
+
+export function AuthForm({ onSubmit, type }: AuthFormProps) {
   const [loading, setLoading] = useState(false)
-  const [error, setError] = useState('')
+  const [error, setError] = useState<string | null>(null)
   const [nickname, setNickname] = useState('')
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    setError('')
+    setError(null)
     setLoading(true)
 
     try {
-      await auth.login(nickname)
+      await onSubmit(nickname)
       window.location.reload()
-    } catch (err: any) {
-      setError(err.message)
+    } catch (err) {
+      if (err instanceof Error) {
+        setError(err.message)
+      } else {
+        setError('Произошла ошибка')
+      }
     } finally {
       setLoading(false)
     }
