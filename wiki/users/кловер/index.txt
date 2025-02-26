@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:I[7208,["562","static/chunks/562-6b85f8d737752aee.js","173","static/chunks/173-b9db1857582be03d.js","720","static/chunks/720-4c460c788140de62.js","177","static/chunks/app/layout-e5883abea2e2c279.js"],"ThemeProvider"]
+3:I[2405,["562","static/chunks/562-6b85f8d737752aee.js","173","static/chunks/173-b9db1857582be03d.js","720","static/chunks/720-4c460c788140de62.js","177","static/chunks/app/layout-e5883abea2e2c279.js"],"Header"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+6:I[4042,["562","static/chunks/562-6b85f8d737752aee.js","173","static/chunks/173-b9db1857582be03d.js","720","static/chunks/720-4c460c788140de62.js","177","static/chunks/app/layout-e5883abea2e2c279.js"],"Toaster"]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/17a2bd87c7921a63.css","style"]
+0:{"P":null,"b":"SOWxe2eD7wAJYAxCd-f4E","p":"","c":["","wiki","users","%D0%BA%D0%BB%D0%BE%D0%B2%D0%B5%D1%80",""],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D0%BA%D0%BB%D0%BE%D0%B2%D0%B5%D1%80","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17a2bd87c7921a63.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children","users","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D0%BA%D0%BB%D0%BE%D0%B2%D0%B5%D1%80","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children","users","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Le8Sb-dftIcjTN_es_OqB",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+f:I[9214,["888","static/chunks/888-2d7aeb5e1a67d5cd.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-db281aa92dc7e26c.js"],"PreloadChunks"]
+10:I[5657,["888","static/chunks/888-2d7aeb5e1a67d5cd.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-db281aa92dc7e26c.js"],"default"]
+11:T4c3,== Основная информация ==
+<div class="user-info bg-card border rounded-lg p-6 mb-8 space-y-4 text-foreground float-right ml-8 w-80">
+        <div class="relative w-full aspect-square mb-4 overflow-hidden rounded-lg">
+          <img 
+            src="/wiki-content/images/Кловер.png" 
+            alt="Аватар"
+            class="object-cover w-full h-full"
+          />
+        </div><div class="text-xl font-semibold text-center mb-4"></div><div class="grid grid-cols-3 gap-2">
+        <div class="text-muted-foreground col-span-1">Дата захода:</div>
+        <div class="col-span-2">02.06.2023</div>
+      </div><div class="grid grid-cols-3 gap-2">
+        <div class="text-muted-foreground col-span-1">Дата рождения:</div>
+        <div class="col-span-2">14.07.NA</div>
+      </div></div>
+Кловер (C1overLeaf, настоящее имя Евгений) - зашел на сервер 2 июня 2023 года, после просмотра видео [https://youtu.be/Qwuqgx-LM4Y?si=4M-Am-KFv1pypV91 Oh, Mickey! ❤️ Голос Времени (ft.Сан-Фран, Эо)]. Побывал в бане 2 раза за кражу эмодзи с сервера.
+ 7:[["$","$Lf",null,{"moduleIds":["app\\wiki\\users\\[slug]\\page.tsx -> ./UserPageContent"]}],["$","$L10",null,{"name":"Кловер","role":"$undefined","htmlContent":"$11"}]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"кловер - Вишневые Аллеи Wiki"}],["$","meta","2",{"name":"description","content":"Профиль пользователя кловер на Вишневые Аллеи Wiki"}],["$","meta","3",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","4",{"rel":"icon","href":"/logo/logo.png"}]]
+9:null
