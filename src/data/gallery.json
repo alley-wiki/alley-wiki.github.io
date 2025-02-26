@@ -1,0 +1,28 @@
+{
+  "music": {
+    "title": "Плейлист Вишневых Аллей",
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Пример трека",
+        "artist": "Артист",
+        "url": "/music/example.mp3"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "art",
+      "title": "Арты",
+      "works": [
+        {
+          "id": "1",
+          "title": "Пример арта",
+          "author": "Автор",
+          "image": "/gallery/example.jpg",
+          "description": "Описание работы"
+        }
+      ]
+    }
+  ]
+}
