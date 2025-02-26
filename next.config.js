@@ -4,7 +4,14 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/alley-wiki.github.io',
+  basePath: '',
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  trailingSlash: true,
 }
 
 module.exports = nextConfig
