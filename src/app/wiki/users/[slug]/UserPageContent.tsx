@@ -11,15 +11,15 @@ interface UserPageContentProps {
 export default function UserPageContent({ name, role, htmlContent }: UserPageContentProps) {
   return (
     <div className="container py-8 max-w-5xl mx-auto">
-      <motion.div 
-        className="bg-card rounded-lg shadow-md overflow-hidden"
+      <motion.div
+        className="bg-card rounded-lg shadow-md overflow-hidden transition-all hover:shadow-xl"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
         <div className="p-8">
           <div className="mb-8">
-            <motion.h1 
+            <motion.h1
               className="text-3xl font-bold mb-2 text-foreground"
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -28,7 +28,7 @@ export default function UserPageContent({ name, role, htmlContent }: UserPageCon
               {name}
             </motion.h1>
             {role && (
-              <motion.h2 
+              <motion.h2
                 className="text-xl text-muted-foreground mb-4"
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -38,7 +38,7 @@ export default function UserPageContent({ name, role, htmlContent }: UserPageCon
               </motion.h2>
             )}
           </div>
-          <motion.div 
+          <motion.div
             className="prose prose-neutral dark:prose-invert max-w-none [&>*:first-child]:mt-0"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}

@@ -188,3 +188,14 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Пример: делаем h2 розовым по-умолчанию */
+.prose h2 {
+  color: hotpink;
+}
+
+/* Или точечно, если заголовок содержит текст "Основная информация" */
+.prose h2:has(> .heading-osnovnaya-info) {
+  color: hotpink;
+}
+
