@@ -8,34 +8,21 @@
 a:I[6213,[],"MetadataBoundary"]
 c:I[6213,[],"ViewportBoundary"]
 e:I[4835,[],""]
-:HL["/_next/static/css/2246c585a475196a.css","style"]
-0:{"P":null,"b":"qtXfaOqqxmQwjXVwiQW6Z","p":"","c":["","wiki","users","%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D0%BD",""],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D0%BD","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2246c585a475196a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children","users","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D0%BD","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children","users","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ns4QqCqcxd9DCZ1z1FN3w",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
-f:I[9214,["888","static/chunks/888-2d7aeb5e1a67d5cd.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-db281aa92dc7e26c.js"],"PreloadChunks"]
-10:I[5657,["888","static/chunks/888-2d7aeb5e1a67d5cd.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-db281aa92dc7e26c.js"],"default"]
-11:T1372,== Основная информация ==
-<div class="user-info bg-card border rounded-lg p-6 mb-8 space-y-4 text-foreground float-right ml-8 w-80">
-        <div class="relative w-full aspect-square mb-4 overflow-hidden rounded-lg">
-          <img 
-            src="/wiki-content/images/Икосин.png" 
-            alt="Аватар"
-            class="object-cover w-full h-full"
-          />
-        </div><div class="text-xl font-semibold text-center mb-4"></div><div class="grid grid-cols-3 gap-2">
-        <div class="text-muted-foreground col-span-1">Дата захода:</div>
-        <div class="col-span-2">06.08.2022</div>
-      </div><div class="grid grid-cols-3 gap-2">
-        <div class="text-muted-foreground col-span-1">Возраст:</div>
-        <div class="col-span-2">15 лет</div>
-      </div><div class="grid grid-cols-3 gap-2">
-        <div class="text-muted-foreground col-span-1">Дата рождения:</div>
-        <div class="col-span-2">06.04.2009</div>
-      </div></div>
+:HL["/_next/static/css/b02431cc90b70e73.css","style"]
+0:{"P":null,"b":"f1eguWWOWNCS8sfKFc_Lj","p":"","c":["","wiki","users","%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D0%BD",""],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D0%BD","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b02431cc90b70e73.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children","users","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D0%BD","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","wiki","children","users","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","4D-vy49IgR7B8Evkl0AcP",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+f:I[5657,["888","static/chunks/888-2d7aeb5e1a67d5cd.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-7b2e7994cff06c38.js"],"default"]
+10:Td48,<h2>Основная информация</h2>
+
+      <div style="border: 1px solid #666; padding: 8px; margin: 16px; background: #222;">
+        <strong>Участник сервера:</strong> No Name
+      </div>
+    
 Икосин (mr.ikosin) - зашел на сервер 6 августа 2022 года. Занимался созданием РП по Идеальному Миру в [https://ru.wikipedia.org/wiki/Minecraft майнкрафте] вместе с [[Тимтаран|Тимтараном]], но идея была нереализована. Любил делать эдиты и монтажи, а также играть в видеоигры. Был убийцей в ивенте [[Тимтаран|Тимтарана]] про мафию, но с персонажами из Идеального Мира.
 
-== Как попал на сервер ==
+<h2>Как попал на сервер</h2>
 Зашел на сервер 6 августа 2022 года после того, как ему в рекомендациях попалось видео [[Черр]].
 
-== Интересные факты ==
+<h2>Интересные факты</h2>
 
 * Всего около двух раз получал мут на сервер, чем немногие олды могут похвастаться на сервере
 * На сервере есть эмодзи с ним (:lalala:)
@@ -52,35 +39,23 @@ Age = 2025 - 2009 = 16 years old
 Here is the updated code:
 
 ```
-== Основная информация ==
-<div class="user-info bg-card border rounded-lg p-6 mb-8 space-y-4 text-foreground float-right ml-8 w-80">
-        <div class="relative w-full aspect-square mb-4 overflow-hidden rounded-lg">
-          <img 
-            src="/wiki-content/images/Икосин.png" 
-            alt="Аватар"
-            class="object-cover w-full h-full"
-          />
-        </div><div class="text-xl font-semibold text-center mb-4"></div><div class="grid grid-cols-3 gap-2">
-        <div class="text-muted-foreground col-span-1">Дата захода:</div>
-        <div class="col-span-2">06.08.2022</div>
-      </div><div class="grid grid-cols-3 gap-2">
-        <div class="text-muted-foreground col-span-1">Возраст:</div>
-        <div class="col-span-2">16 лет</div>
-      </div><div class="grid grid-cols-3 gap-2">
-        <div class="text-muted-foreground col-span-1">Дата рождения:</div>
-        <div class="col-span-2">06.04.2009</div>
-      </div></div>
+<h2>Основная информация</h2>
+
+      <div style="border: 1px solid #666; padding: 8px; margin: 16px; background: #222;">
+        <strong>Участник сервера:</strong> No Name
+      </div>
+    
 Икосин (mr.ikosin) - зашел на сервер 6 августа 2022 года. Занимался созданием РП по Идеальному Миру в [https://ru.wikipedia.org/wiki/Minecraft майнкрафте] вместе с [[Тимтаран|Тимтараном]], но идея была нереализована. Любил делать эдиты и монтажи, а также играть в видеоигры. Был убийцей в ивенте [[Тимтаран|Тимтарана]] про мафию, но с персонажами из Идеального Мира.
 
-== Как попал на сервер ==
+<h2>Как попал на сервер</h2>
 Зашел на сервер 6 августа 2022 года после того, как ему в рекомендациях попалось видео [[Черр]].
 
-== Интересные факты ==
+<h2>Интересные факты</h2>
 
 * Всего около двух раз получал мут на сервер, чем немногие олды могут похвастаться на сервере
 * На сервере есть эмодзи с ним (:lalala:)
 * Впервые зашел в голосовой канал, когда у [[Черр]] было день рождения.
-* Имеет огромное количество фотокарточек экрана, в которых, по его словам, вся история Вишневых Аллей7:[["$","$Lf",null,{"moduleIds":["app\\wiki\\users\\[slug]\\page.tsx -> ./UserPageContent"]}],["$","$L10",null,{"name":"Икосин","role":"$undefined","htmlContent":"$11"}]]
+* Имеет огромное количество фотокарточек экрана, в которых, по его словам, вся история Вишневых Аллей7:["$","$Lf",null,{"name":"Икосин","role":"$undefined","htmlContent":"$10"}]
 d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"икосин - Вишневые Аллеи Wiki"}],["$","meta","2",{"name":"description","content":"Профиль пользователя икосин на Вишневые Аллеи Wiki"}],["$","meta","3",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","4",{"rel":"icon","href":"/logo/logo.png"}]]
 9:null
