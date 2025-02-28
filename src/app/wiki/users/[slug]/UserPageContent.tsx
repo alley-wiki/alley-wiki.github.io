@@ -4,13 +4,13 @@ import { motion } from 'framer-motion';
 
 interface UserPageContentProps {
   name: string;
-  role?: string;
   htmlContent: string;
+  role?: string;
 }
 
 export default function UserPageContent({ name, role, htmlContent }: UserPageContentProps) {
   return (
-    <div className="container py-8 max-w-5xl mx-auto">
+    <div className="container mx-auto p-8 max-w-5xl">
       <motion.div
         className="bg-card rounded-lg shadow-md overflow-hidden transition-all hover:shadow-xl"
         initial={{ opacity: 0, y: 20 }}
