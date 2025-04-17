@@ -15,7 +15,7 @@ echo Добавление удаленного репозитория origin (м
 git remote add origin https://github.com/alley-wiki/alley-wiki.github.io.git
 
 echo Отправка изменений на GitHub (ветка main)...
-git push -u origin main
+git push -f origin main
 
 echo.
 echo Готово! Нажмите любую клавишу для выхода...
