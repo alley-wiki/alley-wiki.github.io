@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-a805ddcdd6a15182.js"],"ThemeProvider"]
+3:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-a805ddcdd6a15182.js"],"Header"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-a805ddcdd6a15182.js"],"Toaster"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/86d737395e316d3e.css","style"]
+0:{"P":null,"b":"QqmbJYwoxIozi-oHY82nz","p":"","c":["","wiki","users","%D0%BA%D0%B0%D1%81"],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D0%BA%D0%B0%D1%81","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/86d737395e316d3e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D0%BA%D0%B0%D1%81","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","vy6wYakSmSdn2zIw1oo-r",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+15:I[4450,["226","static/chunks/226-73d607489663ccbf.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-f2ec058e6911096a.js"],"default"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+16:Tf80,<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Основная информация</h2>
+
+      <div class="infobox mb-6 md:float-right md:w-64 w-full md:ml-6 ml-0 bg-card border border-border shadow-md p-4 rounded-md">
+        <div class="mb-4 overflow-hidden rounded-md">
+                 <img
+                   src="/wiki-content/images/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9%20%D0%9A%D0%B0%D1%81.png"
+                   alt="Аватар"
+                   class="object-cover w-full h-auto rounded-md"
+                 />
+               </div>
+        <div class="text-sm space-y-1">
+          
+          
+          
+          <div><strong>Дата захода на сервер:</strong> 12.10.2022</div>
+          <div><strong>Должность:</strong> Модератор</div>
+          
+        </div>
+      </div>
+    
+Кас (mr.cas) - зашел на сервер 12 октября 2022 года. Увлекается <a href="https://ru.wikipedia.org/wiki/Minecraft" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">майнкрафтом</a>, <a href="https://ru.wikipedia.org/wiki/Dota_2" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">дотой</a>, <a href="https://ru.wikipedia.org/wiki/Osu!" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">osu</a>, общением в дискорде и прочим. 
+
+Из запомнившихся историй только конфликт 22 августа 2023 года, конфликт между Вишневыми Аллеями и Дискордным Лололошем 24 июня 2023 года, и приятный вечер 30 апреля 2023 года, когда почти все в чате поставили его ник и аватарку.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Как попал на сервер</h2>
+Зашел на сервер 12 октября 2022 года. В то время он смотрел абсолютно все видео по Лололошке и наткнулся на данное <a href="https://www.youtube.com/watch?v=WsuhdaY8yQs" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">видео</a>, ему очень понравился стиль <a href="/wiki/users/черр" class="text-primary hover:underline">Черр</a>, вследствие чего, он пересмотрел все ее видео и наткнулся на один видеоролик, в конце которого была вставка о том, что у нее есть свой сервер.  На тот момент у него не было дискорда на телефоне, а за компьютером он не сидел, поэтому это можно сказать является его первым глобальным сервером, на котором он начал активить.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Как стал модератором</h2>
+Без написания заявки стал модератором 29 января 2023 года. Перестал занимать данную должность 5 июля того же года вместе с Саем, в связи с тем, что покинул сервер. Вернулся 1 августа 2023 года уже без роли модератора, но перестал активно общаться после 22 августа, потому что большинство не поддержало его и Сая позицию насчёт сервера, из-за которой возникло огромное количество ссор и разрушенных отношений. В 2 июня 2024 года, когда Кас написал заявку в модераторы, его снова приняли.
+ 
+ 7:["$","$L15",null,{"name":"Кас","htmlContent":"$16"}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"кас - Вишневые Аллеи Wiki"}],["$","meta","1",{"name":"description","content":"Профиль пользователя кас на Вишневые Аллеи Wiki"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
