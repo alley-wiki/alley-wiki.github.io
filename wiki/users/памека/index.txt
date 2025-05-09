@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-a805ddcdd6a15182.js"],"ThemeProvider"]
+3:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-a805ddcdd6a15182.js"],"Header"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-a805ddcdd6a15182.js"],"Toaster"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/86d737395e316d3e.css","style"]
+0:{"P":null,"b":"JmIRgbCTxJKYpx2pJF12y","p":"","c":["","wiki","users","%D0%BF%D0%B0%D0%BC%D0%B5%D0%BA%D0%B0",""],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D0%BF%D0%B0%D0%BC%D0%B5%D0%BA%D0%B0","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/86d737395e316d3e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D0%BF%D0%B0%D0%BC%D0%B5%D0%BA%D0%B0","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","XU2Kx1ms1gIxqMMh4zc9c",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+15:I[4450,["226","static/chunks/226-73d607489663ccbf.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-f2ec058e6911096a.js"],"default"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+16:Tfc3,<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Основная информация</h2>
+
+      <div class="infobox mb-6 md:float-right md:w-64 w-full md:ml-6 ml-0 bg-card border border-border shadow-md p-4 rounded-md">
+        <div class="mb-4 overflow-hidden rounded-md">
+                 <img
+                   src="/wiki-content/images/%D0%9F%D0%B0%D0%BC%D0%B5%D0%BA%D0%B0.png"
+                   alt="Максим"
+                   class="object-cover w-full h-auto rounded-md"
+                 />
+               </div>
+        <div class="text-sm space-y-1">
+          <div><strong>Имя:</strong> Максим</div>
+          
+          
+          <div><strong>Дата захода на сервер:</strong> 2022 год</div>
+          
+          
+        </div>
+      </div>
+    
+Памека (pamekaceks, настоящее имя Максим) - зашел на сервер в 2022 году.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Как попал на сервер</h2>
+Зашел на сервер в 2022 году, после анимации <a href="/wiki/users/черр" class="text-primary hover:underline">Черр</a> по Идеальному Миру на ютубе, в конце которой была реклама сервера.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Чем занимался после захода</h2>
+Познакомился со всеми, но не прижился из-за своего характера, либо правил. Часто были конфликты с <a href="/wiki/users/вария" class="text-primary hover:underline">Варией</a>, за что его мутили, и в конце концов был забанен за них. После бана он создал новый аккаунт, с которого зашел на сервер и начал расспрашивать про себя, но из-за этих расспросов его разоблачили и забанили. Так что, он создал еще один аккаунт, с которого просто следил за тем, что о нем пишут, а также писал различные послания на Дискордном Лололоше и просил людей переслать их на Вишневые Аллеи.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Как вернулся на Вишневые Аллеи</h2>
+Спустя год бана на Вишневых Аллеях, на Дискордном Лололоше были тяжелые времена, во время которых многие ушли на Вишневые Аллеи. Памека тоже захотел перейти, так что он написал <a href="/wiki/users/соня (никита)" class="text-primary hover:underline">Соне</a> и она порекомендовала ему написать <a href="/wiki/users/вафф" class="text-primary hover:underline">Вафф</a>, что он и сделал. Он пообщался с ней и договорился на то, что больше не будет вести себя так, как раньше, вследствие чего, она разбанила его и некоторых других нарушителей.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">После разбана</h2>
+Писала фанфик про Полю и <a href="/wiki/users/соня (никита)" class="text-primary hover:underline">Соню</a>. Стала иногда общаться из-за смягчения правил.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Интересные факты</h2>
+- Любит окрошку
+
+- Шарит за Магическую Битву
+
+- Начал играть в доту иза <a href="/wiki/users/соня (никита)" class="text-primary hover:underline">Соня (Никита)</a>
+
+ 7:["$","$L15",null,{"name":"Памека","htmlContent":"$16"}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"памека - Вишневые Аллеи Wiki"}],["$","meta","1",{"name":"description","content":"Профиль пользователя памека на Вишневые Аллеи Wiki"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
