@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-009b4c29b0d4c833.js"],"ThemeProvider"]
+3:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-009b4c29b0d4c833.js"],"Header"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-009b4c29b0d4c833.js"],"Toaster"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/885c4430f636c89a.css","style"]
+0:{"P":null,"b":"89dnEttWNWVdTEDe-QvRK","p":"","c":["","wiki","users","%D1%81%D0%B5%D0%BA%D0%B8"],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D1%81%D0%B5%D0%BA%D0%B8","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/885c4430f636c89a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D1%81%D0%B5%D0%BA%D0%B8","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ZKD5LCSy3_jYSaS54X5gY",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+15:I[4450,["226","static/chunks/226-73d607489663ccbf.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-f2ec058e6911096a.js"],"default"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+16:Tc9a,<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Основная информация</h2>
+
+      <div class="infobox mb-6 md:float-right md:w-64 w-full md:ml-6 ml-0 bg-card border border-border shadow-md p-4 rounded-md">
+        <div class="mb-4 overflow-hidden rounded-md">
+                 <img
+                   src="/wiki-content/images/%D0%A1%D0%B5%D0%BA%D0%B8.png"
+                   alt="Аватар"
+                   class="object-cover w-full h-auto rounded-md"
+                   onError="this.style.display='none';"
+                 />
+               </div>
+        <div class="text-sm space-y-1">
+          
+          <div><strong>Возраст:</strong> 18 лет</div>
+          <div><strong>Дата рождения:</strong> 02.09.2006</div>
+          <div><strong>Дата захода на сервер:</strong> 24.02.2023</div>
+          
+          <div><strong>Место рождения:</strong> Россия</div>
+        </div>
+      </div>
+    
+Секи (sekiro0) - участник <a href="https://discord.com/invite/wun8gmzdhJ" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">дискорд-сервера</a> Вишневых Аллей. Зашел на сервер 24 февраля 2023 года.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Как попал на сервер</h2>
+Секи зашел на сервер 24 февраля, через <a href="https://youtu.be/k0y0GfGxxLI" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">видео</a> с анимацией от <a href="/wiki/users/черр" class="text-primary hover:underline">Черр</a>.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Что делал после захода</h2>
+После захода ему было в начале непросто, но потом освоился и познакомился со всеми.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Что делает на данный момент</h2>
+На данный момент Секи продолжает общаться и продолжает придумывать новые идеи.
+
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Интересные факты</h2>
+
+<ul class="list-disc list-inside ml-6"><li>Относится к наиболее взрослой части участников <a href="https://discord.com/invite/wun8gmzdhJ" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">дискорд-сервера</a>.</li>
+<li>Является братом <a href="/wiki/users/вафф" class="text-primary hover:underline">Вафф</a> согласно семейному древу Вишневых Аллей.</li>
+<li>Создатель и ведущий программы "Инсайд".</li>
+<li>Любит дебаты и дискуссии.</li>
+<li>Ушел с сервера в 12 мая 2024 из-за экзаменов, а вернулся 4 июня 2024 года.</li>
+<li>Сын нефтянника</li>
+<li>Купил несколько пар кроссовок за раз и даже не запарился</li></ul>7:["$","$L15",null,{"name":"Секи","htmlContent":"$16"}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"секи - Вишневые Аллеи Wiki"}],["$","meta","1",{"name":"description","content":"Профиль пользователя секи на Вишневые Аллеи Wiki"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
