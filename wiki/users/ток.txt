@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-8392a33a1534fc36.js"],"ThemeProvider"]
+3:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-8392a33a1534fc36.js"],"Header"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-8392a33a1534fc36.js"],"Toaster"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/9235f582c607db75.css","style"]
+0:{"P":null,"b":"-3lHn0uBcLW1w0BotJWN-","p":"","c":["","wiki","users","%D1%82%D0%BE%D0%BA"],"i":false,"f":[[["",{"children":["wiki",{"children":["users",{"children":[["slug","%D1%82%D0%BE%D0%BA","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9235f582c607db75.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["users",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","%D1%82%D0%BE%D0%BA","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","QBGbxs7KwiKxAqGBfOs_I",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+15:I[4450,["226","static/chunks/226-73d607489663ccbf.js","484","static/chunks/app/wiki/users/%5Bslug%5D/page-9e380ef18fb64784.js"],"default"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+16:T14b1,<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Основная информация</h2>
+
+      <div class="infobox mb-6 md:float-right md:w-64 w-full md:ml-6 ml-0 bg-card border border-border shadow-md p-4 rounded-md">
+        <div class="mb-4 overflow-hidden rounded-md">
+                 <img
+                   src="/wiki-content/images/%D0%A2%D0%BE%D0%BA.png"
+                   alt="Аватар"
+                   class="object-cover w-full h-auto rounded-md"
+                   onError="this.style.display='none';"
+                 />
+               </div>
+        <div class="text-sm space-y-1">
+          
+          <div><strong>Возраст:</strong> 15 лет</div>
+          <div><strong>Дата рождения:</strong> 06.09.2009</div>
+          <div><strong>Дата захода на сервер:</strong> 10.08.2022</div>
+          
+          
+        </div>
+      </div>
+    
+Ток (tok_458) - Участник <a href="https://discord.gg/dRu68ERWFx" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Discord-сервера Вишневых Аллей</a>, зашел на сервер 10 августа 2022 года, увидев в рекомендациях творчество <a href="https://www.youtube.com/@cherru_" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Черр</a>, а именно такие видео, как "<a href="https://youtu.be/88BYU18NSYQ?si=7CP50hDSjklWnrH4" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Аскорбинка | animation (ft.Lololoshka, Кавински) Идеальный мир</a>" и "<a href="https://youtu.be/hpwbFvcqIjo?si=9lcM9lesrm_FBf8U" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">45 секунд шуток про руку (Идеальный мир) ft.Кейт, Радан, Райя</a>". В дальнейшем, начал следить за творчеством <a href="https://www.youtube.com/@cherru_" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Черр</a>.
+
+После опроса <a href="https://www.youtube.com/@cherru_" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Черр</a> "Что лучше создать: Группу ВК, Telegram-канал, <a href="https://discord.gg/dRu68ERWFx" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Discord-сервер</a>?", он выбирает "<a href="https://discord.gg/dRu68ERWFx" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Discord-сервер</a>".
+
+В августе 2022 года, появляется <a href="https://youtu.be/KI3MkN5Hfq4?si=x1aOfHW_9Sb5cWhx" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">видео</a> <a href="https://www.youtube.com/@cherru_" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Черр</a>, где в описании указывается ссылка на <a href="https://discord.gg/dRu68ERWFx" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Discord-сервер</a>.
+
+10 августа 2022 года заходит на сервер.
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Чем занимался после захода на сервер и причины бана</h2>
+В сентябре ему банят первый аккаунт. 14 сентября 2022 года, он создаёт другой аккаунт. Этот аккаунт держится до 29-го сентября и улетает в бан. Ныне больше не используется. Создаётся 3 аккаунт, который он использует сейчас.
+
+Причины бана: Хорни поведение, 5.2, оскорбление и конфликты с участниками.
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Разбан</h2>
+Проходит 370 дней с 29 сентября 2022 года, с последнего появления Tokа, пока его не разбанивают. Ночью с 10 по 11 декабря 2023 года он ливает т.к. по его мнению Сай устраивает раздачу мутов и предов  всем подряд. Позже, а именно днём 11 числа, Tok возвращается обратно на <a href="https://discord.gg/dRu68ERWFx" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">сервер</a> 
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Чем занимается сейчас</h2>
+Сейчас он один из самых активных людей, почти не нарушающих правила. Состоит в факультете живописи и изящных исскуств.
+<h2 class="text-2xl font-bold mt-6 mb-3 text-pink-500">Интересные факты</h2>
+
+<ul class="list-disc list-inside ml-6"><li>Находится в браке с Izum более 150 дней</li>
+<li>Живет в Сибири</li>
+<li>Ник в бравле: про</li>
+
+ </ul>7:["$","$L15",null,{"name":"Ток","htmlContent":"$16"}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"ток - Вишневые Аллеи Wiki"}],["$","meta","1",{"name":"description","content":"Профиль пользователя ток на Вишневые Аллеи Wiki"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
