@@ -1,27 +1,63 @@
 1:"$Sreact.fragment"
-2:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"ThemeProvider"]
-3:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"Header"]
-4:I[7555,[],""]
-5:I[1901,["39","static/chunks/app/error-e5e430b4d25396c5.js"],"default"]
-6:I[1295,[],""]
-7:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"Toaster"]
-8:I[3780,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"default"]
-9:I[894,[],"ClientPageRoot"]
-a:I[131,["226","static/chunks/226-73d607489663ccbf.js","277","static/chunks/277-69ce9132c250dbdb.js","310","static/chunks/310-807758057e1cb272.js","181","static/chunks/app/wiki/art/page-8370715ffa4fb478.js"],"default"]
-d:I[9665,[],"MetadataBoundary"]
-f:I[9665,[],"OutletBoundary"]
-12:I[4911,[],"AsyncMetadataOutlet"]
-14:I[9665,[],"ViewportBoundary"]
-16:I[6614,[],""]
+3:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"ThemeProvider"]
+4:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"Header"]
+5:I[7555,[],""]
+6:I[1901,["39","static/chunks/app/error-e5e430b4d25396c5.js"],"default"]
+7:I[1295,[],""]
+8:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"Toaster"]
+9:I[3339,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"default"]
+a:I[3780,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"default"]
+b:I[894,[],"ClientPageRoot"]
+c:I[131,["226","static/chunks/226-73d607489663ccbf.js","277","static/chunks/277-69ce9132c250dbdb.js","310","static/chunks/310-807758057e1cb272.js","181","static/chunks/app/wiki/art/page-8370715ffa4fb478.js"],"default"]
+f:I[9665,[],"MetadataBoundary"]
+11:I[9665,[],"OutletBoundary"]
+14:I[4911,[],"AsyncMetadataOutlet"]
+16:I[9665,[],"ViewportBoundary"]
+18:I[6614,[],""]
 :HL["/_next/static/css/738f6e334f4b6896.css","style"]
-0:{"P":null,"b":"E16fhRBQqoBhYm4kTPDBu","p":"","c":["","wiki","art",""],"i":false,"f":[[["",{"children":["wiki",{"children":["art",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/738f6e334f4b6896.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n          window.onerror = function(msg) {\n            if (String(msg).includes('Connection closed')) {\n              console.log('Перезагрузка из-за ошибки Connection closed');\n              window.location.reload();\n            }\n          };\n        "}}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["art",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L9",null,{"Component":"$a","searchParams":{},"params":{},"promises":["$@b","$@c"]}],["$","$Ld",null,{"children":"$Le"}],null,["$","$Lf",null,{"children":["$L10","$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","TQi5oQiPwuJmaJtzqNO1u",{"children":[["$","$L14",null,{"children":"$L15"}],null]}],null]}],false]],"m":"$undefined","G":["$16","$undefined"],"s":false,"S":true}
-17:"$Sreact.suspense"
-18:I[4911,[],"AsyncMetadata"]
-b:{}
-c:{}
-e:["$","$17",null,{"fallback":null,"children":["$","$L18",null,{"promise":"$@19"}]}]
-11:null
-15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-10:null
-19:{"metadata":[["$","title","0",{"children":"Вишневые Аллеи"}],["$","meta","1",{"name":"description","content":"Вики-сайт сервера Вишневые Аллеи"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}]],"error":null,"digest":"$undefined"}
-13:{"metadata":"$19:metadata","error":null,"digest":"$undefined"}
+2:T5f7,
+          window.onerror = function(msg) {
+            if (String(msg).includes('Connection closed')) {
+              console.log('Перезагрузка из-за ошибки Connection closed');
+              
+              // Обработка URL для предотвращения ошибок с не-ASCII символами
+              try {
+                const url = new URL(window.location.href);
+                let needsUpdate = false;
+                
+                url.searchParams.forEach((value, key) => {
+                  try {
+                    const decodedValue = decodeURIComponent(decodeURIComponent(value));
+                    const encodedValue = encodeURIComponent(decodedValue);
+                    
+                    if (value !== encodedValue) {
+                      url.searchParams.set(key, encodedValue);
+                      needsUpdate = true;
+                    }
+                  } catch (e) {
+                    // Если декодирование не удалось, просто пропускаем
+                  }
+                });
+                
+                if (needsUpdate) {
+                  window.location.href = url.toString();
+                } else {
+                  window.location.reload();
+                }
+              } catch (e) {
+                // В случае ошибки просто перезагружаем страницу
+                window.location.reload();
+              }
+            }
+          };
+        0:{"P":null,"b":"oQTuVDunqOCbaxMviXSVS","p":"","c":["","wiki","art",""],"i":false,"f":[[["",{"children":["wiki",{"children":["art",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/738f6e334f4b6896.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L3",null,{"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$6","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["art",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$Lb",null,{"Component":"$c","searchParams":{},"params":{},"promises":["$@d","$@e"]}],["$","$Lf",null,{"children":"$L10"}],null,["$","$L11",null,{"children":["$L12","$L13",["$","$L14",null,{"promise":"$@15"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ZHlfEg-PbEGOrWHWo4QxJ",{"children":[["$","$L16",null,{"children":"$L17"}],null]}],null]}],false]],"m":"$undefined","G":["$18","$undefined"],"s":false,"S":true}
+19:"$Sreact.suspense"
+1a:I[4911,[],"AsyncMetadata"]
+d:{}
+e:{}
+10:["$","$19",null,{"fallback":null,"children":["$","$L1a",null,{"promise":"$@1b"}]}]
+13:null
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+1b:{"metadata":[["$","title","0",{"children":"Вишневые Аллеи"}],["$","meta","1",{"name":"description","content":"Вики-сайт сервера Вишневые Аллеи"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}]],"error":null,"digest":"$undefined"}
+15:{"metadata":"$1b:metadata","error":null,"digest":"$undefined"}

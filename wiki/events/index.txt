@@ -1,25 +1,61 @@
 1:"$Sreact.fragment"
-2:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"ThemeProvider"]
-3:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"Header"]
-4:I[7555,[],""]
-5:I[1901,["39","static/chunks/app/error-e5e430b4d25396c5.js"],"default"]
-6:I[1295,[],""]
-7:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"Toaster"]
-8:I[3780,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-16385cf24353230e.js"],"default"]
-a:I[9665,[],"MetadataBoundary"]
-c:I[9665,[],"OutletBoundary"]
-f:I[4911,[],"AsyncMetadataOutlet"]
-11:I[9665,[],"ViewportBoundary"]
-13:I[6614,[],""]
+3:I[1483,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"ThemeProvider"]
+4:I[6728,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"Header"]
+5:I[7555,[],""]
+6:I[1901,["39","static/chunks/app/error-e5e430b4d25396c5.js"],"default"]
+7:I[1295,[],""]
+8:I[3072,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"Toaster"]
+9:I[3339,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"default"]
+a:I[3780,["277","static/chunks/277-69ce9132c250dbdb.js","874","static/chunks/874-653165b0a2a82f7e.js","306","static/chunks/306-45fdbf5e058b9f99.js","177","static/chunks/app/layout-6ca8f384f8c978d6.js"],"default"]
+c:I[9665,[],"MetadataBoundary"]
+e:I[9665,[],"OutletBoundary"]
+11:I[4911,[],"AsyncMetadataOutlet"]
+13:I[9665,[],"ViewportBoundary"]
+15:I[6614,[],""]
 :HL["/_next/static/css/738f6e334f4b6896.css","style"]
-0:{"P":null,"b":"E16fhRBQqoBhYm4kTPDBu","p":"","c":["","wiki","events",""],"i":false,"f":[[["",{"children":["wiki",{"children":["events",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/738f6e334f4b6896.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n          window.onerror = function(msg) {\n            if (String(msg).includes('Connection closed')) {\n              console.log('Перезагрузка из-за ошибки Connection closed');\n              window.location.reload();\n            }\n          };\n        "}}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["events",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","fIGFgFSoyW7VxA6RjNRCi",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
-14:"$Sreact.suspense"
-15:I[4911,[],"AsyncMetadata"]
-b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
-e:null
-12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-d:null
-16:{"metadata":[["$","title","0",{"children":"События сервера | Вишневые Аллеи"}],["$","meta","1",{"name":"description","content":"Вики-сайт сервера Вишневые Аллеи"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}]],"error":null,"digest":"$undefined"}
-10:{"metadata":"$16:metadata","error":null,"digest":"$undefined"}
-17:I[6874,["874","static/chunks/874-653165b0a2a82f7e.js","533","static/chunks/app/wiki/events/page-a6432e7c9956082f.js"],""]
-9:["$","div",null,{"className":"w-full max-w-7xl mx-auto px-4 py-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold mb-4 text-center bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent","children":"🎉 События сервера"}],["$","p",null,{"className":"text-center text-muted-foreground mb-6","children":"Все события на сервере Вишневые Аллеи"}],["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4","children":[["$","$L17","порно",{"href":"/wiki/events/%D0%BF%D0%BE%D1%80%D0%BD%D0%BE","className":"block group","children":["$","div",null,{"className":"p-4 rounded-lg border bg-card shadow hover:shadow-lg transition-shadow","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-semibold mb-2 bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent","children":"Порно"}],["$","p",null,{"className":"text-sm text-foreground/80 line-clamp-2","children":"порно"}],["$","div",null,{"className":"mt-3 text-sm text-pink-500 group-hover:underline","children":"Подробнее →"}]]}]}]]}]]}]
+2:T5f7,
+          window.onerror = function(msg) {
+            if (String(msg).includes('Connection closed')) {
+              console.log('Перезагрузка из-за ошибки Connection closed');
+              
+              // Обработка URL для предотвращения ошибок с не-ASCII символами
+              try {
+                const url = new URL(window.location.href);
+                let needsUpdate = false;
+                
+                url.searchParams.forEach((value, key) => {
+                  try {
+                    const decodedValue = decodeURIComponent(decodeURIComponent(value));
+                    const encodedValue = encodeURIComponent(decodedValue);
+                    
+                    if (value !== encodedValue) {
+                      url.searchParams.set(key, encodedValue);
+                      needsUpdate = true;
+                    }
+                  } catch (e) {
+                    // Если декодирование не удалось, просто пропускаем
+                  }
+                });
+                
+                if (needsUpdate) {
+                  window.location.href = url.toString();
+                } else {
+                  window.location.reload();
+                }
+              } catch (e) {
+                // В случае ошибки просто перезагружаем страницу
+                window.location.reload();
+              }
+            }
+          };
+        0:{"P":null,"b":"oQTuVDunqOCbaxMviXSVS","p":"","c":["","wiki","events",""],"i":false,"f":[[["",{"children":["wiki",{"children":["events",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/738f6e334f4b6896.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"suppressHydrationWarning":true,"children":[["$","title",null,{"children":"Вишневые Аллеи"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/logo/logo.png"}],["$","link",null,{"rel":"shortcut icon","href":"/logo/logo.png","type":"image/png"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"__className_5b2c46","suppressHydrationWarning":true,"children":["$","$L3",null,{"children":[["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$6","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404 - Страница не найдена"}],["$","p",null,{"children":"Извините, но страница, которую вы ищете, не существует."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]]}]]}],{"children":["wiki",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["events",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",["$","$Lc",null,{"children":"$Ld"}],null,["$","$Le",null,{"children":["$Lf","$L10",["$","$L11",null,{"promise":"$@12"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","M9s4-UJV00CD8vGEEKXx8",{"children":[["$","$L13",null,{"children":"$L14"}],null]}],null]}],false]],"m":"$undefined","G":["$15","$undefined"],"s":false,"S":true}
+16:"$Sreact.suspense"
+17:I[4911,[],"AsyncMetadata"]
+d:["$","$16",null,{"fallback":null,"children":["$","$L17",null,{"promise":"$@18"}]}]
+10:null
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+18:{"metadata":[["$","title","0",{"children":"События сервера | Вишневые Аллеи"}],["$","meta","1",{"name":"description","content":"Вики-сайт сервера Вишневые Аллеи"}],["$","meta","2",{"name":"keywords","content":"Вишневые Аллеи,Cherru,MrLololoshka,Discord,Wiki"}],["$","link","3",{"rel":"icon","href":"/logo/logo.png","type":"image/png","sizes":"any"}]],"error":null,"digest":"$undefined"}
+12:{"metadata":"$18:metadata","error":null,"digest":"$undefined"}
+19:I[6874,["874","static/chunks/874-653165b0a2a82f7e.js","533","static/chunks/app/wiki/events/page-a6432e7c9956082f.js"],""]
+b:["$","div",null,{"className":"w-full max-w-7xl mx-auto px-4 py-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold mb-4 text-center bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent","children":"🎉 События сервера"}],["$","p",null,{"className":"text-center text-muted-foreground mb-6","children":"Все события на сервере Вишневые Аллеи"}],["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4","children":[["$","$L19","порно",{"href":"/wiki/events/%D0%BF%D0%BE%D1%80%D0%BD%D0%BE","className":"block group","children":["$","div",null,{"className":"p-4 rounded-lg border bg-card shadow hover:shadow-lg transition-shadow","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-semibold mb-2 bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent","children":"Порно"}],["$","p",null,{"className":"text-sm text-foreground/80 line-clamp-2","children":"порно"}],["$","div",null,{"className":"mt-3 text-sm text-pink-500 group-hover:underline","children":"Подробнее →"}]]}]}]]}]]}]
